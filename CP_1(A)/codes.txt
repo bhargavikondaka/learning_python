@@ -1,6 +1,0 @@
-<img width="410" height="338" alt="image" src="https://github.com/user-attachments/assets/4fe63599-4ebe-4eee-9004-fe51e046813b" />
-
-code :
-
-n=input()
-print(n)
